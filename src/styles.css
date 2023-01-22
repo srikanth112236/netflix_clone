@@ -1,0 +1,25 @@
+/* You can add global styles to this file, and also import other style files */
+*{
+    margin: 0px;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+font-family: 'Manrope', sans-serif;
+background-color: #000000;
+}
+
+/* navbar */
+.navbar-brand {
+    color: #870d0d;
+    font-size: 24px;
+}
+.nav-link{
+    color: #870d0d;
+}
+.nav-link:hover{
+    color: #870d0d;
+}
+p{
+    color: #870d0d;
+}
